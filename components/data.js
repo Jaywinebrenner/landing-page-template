@@ -12,22 +12,22 @@ import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
   title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  desc: "Sit amet porttitor eget dolor morbi non arcu risus. Vel pretium lectus quam id. Sed vulputate odio ut enim blandit volutpat. Molestie ac feugiat sed lectus.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Scelerisque eleifend",
+      desc: "Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus.",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Tellus in metus ",
+      desc: "Rutrum quisque non tellus orci ac auctor augue mauris.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Volutpat sed cras",
+      desc: "Urna neque viverra justo nec ultrices.",
       icon: <CursorArrowRaysIcon />,
     },
   ],
@@ -39,18 +39,18 @@ const benefitTwo = {
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
+      title: "Awesome Benefit",
+      desc: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Amazing Benefit",
+      desc: "Exercitation ullamco laboris nisi ut aliquip consequat ex ea commodo.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
+      title: "Super Cool Benefit",
+      desc: "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       icon: <SunIcon />,
     },
   ],

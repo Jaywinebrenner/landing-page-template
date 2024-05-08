@@ -1,7 +1,7 @@
 {
-  "name": "nextly-template",
+  "name": "template",
   "version": "0.1.0",
-  "description": "Nextly Landing Page Template",
+  "description": "Landing Page Template",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,8 +9,7 @@
     "start": "next start"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/web3templates/nextly-template"
+    "type": "git"
   },
   "keywords": [
     "nextjs",

@@ -8,3 +8,8 @@
     @apply dark:bg-trueGray-900;
   }
 }
+
+
+.logo {
+  width: 70px;
+}
