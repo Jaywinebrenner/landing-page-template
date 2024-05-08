@@ -5,11 +5,11 @@ import { Disclosure } from "@headlessui/react";
 
 const Navbar = () => {
   const navigation = [
-    "Product",
+    "Products",
     "Features",
     "Pricing",
-    "Company",
-    "Blog",
+    "About",
+    "Contact",
   ];
 
   return (
